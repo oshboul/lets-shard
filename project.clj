@@ -1,4 +1,4 @@
-(defproject org.clojars.omar/lets-shard "0.1.0"
+(defproject lets-shard "0.1.0"
   :author "Omar Alshboul"
   :description "An easy way to shard anything!"
   :url "https://github.com/oshboul/lets-shard"
